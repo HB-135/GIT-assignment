@@ -17,3 +17,5 @@ echo "$result"  # print the output from the operation
 echo "$result" > output.txt  # save the output to the desired file
 
 fi  # end the if statement range 
+
+#please note that this is a script for getting into bash and start to learn it 
